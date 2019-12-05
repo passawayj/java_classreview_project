@@ -167,7 +167,7 @@ for(int i = 0 ; i < 3 ; i++){
 
 # 리뷰기능 테스트 결과
 
-#### <image width = 500 scr = "![리뷰기능 테스트결과](https://user-images.githubusercontent.com/58559928/70269863-918bda00-17e6-11ea-8c95-973eb038a9a5.png">
+#### <image width = 500 scr = "https://user-images.githubusercontent.com/58559928/70269863-918bda00-17e6-11ea-8c95-973eb038a9a5.png">
 
 
 # 추천기능 테스트 결과
