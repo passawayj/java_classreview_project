@@ -171,4 +171,4 @@ for(int i = 0 ; i < 3 ; i++){
 
 # 추천기능 테스트 결과
 
-#### <image width = 500 scr = "https://user-images.githubusercontent.com/58559928/70269882-9badd880-17e6-11ea-9345-cd2ada483991.png">
+#### <image width = 500 scr = "https://user-images.githubusercontent.com/58559928/70270402-addc4680-17e7-11ea-83a8-a1e2b1190c94.png">
